@@ -1,5 +1,4 @@
-# databricks-carto
-Databricks + Carto
+# Databricks + Carto
 
 ### Pivot Bio's Spatial Analytics Evolution with Databricks & CARTO
 https://www.youtube.com/watch?v=yIPDX6SYLk8
